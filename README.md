@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Django and react.
+
 🌱 I’m currently learning Machine learning and Data Science.
+
 👯 I’m looking to collaborate on Blockchain.
+
 💬 Ask me about Blockchain, Python and Java.
+
 📫 How to reach me: email - Kushagra2jindal@gmail.com
 
 <!--
