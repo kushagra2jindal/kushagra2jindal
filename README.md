@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on Django and react.
+🔭 I’m currently working on Blockchain.
 
 🌱 I’m currently learning Machine learning and Data Science.
 
