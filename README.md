@@ -8,7 +8,7 @@
 
 💬 Ask me about Blockchain, Python and Java.
 
-📫 How to reach me: email - Kushagra2jindal@gmail.com
+📫 How to reach me: email - Kushagra@integraate.com
 
 <!--
 **kushagra2jindal/kushagra2jindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
