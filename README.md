@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on Blockchain.
+🔭 I’m currently working on EVM based blockchains, DeFi, Oracles, bridges.
 
-🌱 I’m currently learning Machine learning and Data Science.
+🌱 I’m currently learning Non EVM blockchains like Solana, Near, Terra and Cardano.
 
 👯 I’m looking to collaborate on Blockchain.
 
