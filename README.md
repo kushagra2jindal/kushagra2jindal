@@ -1,12 +1,12 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on EVM based blockchains, DeFi, Oracles, bridges.
+🔭 I’m currently working on EVM/Non-EVM blockchains, DeFi, Oracles, bridges, zkp.
 
-🌱 I’m currently learning Non EVM blockchains like Solana, Near, Terra and Cardano.
+🌱 I’m currently learning zkRollups, stealth address.
 
 👯 I’m looking to collaborate on Blockchain.
 
-💬 Ask me about Blockchain, Python and Java.
+💬 Ask me about Blockchain and Zero Knowledge.
 
 📫 How to reach me: email - Kushagra@integraate.com
 
