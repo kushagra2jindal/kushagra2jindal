@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🔭 I’m currently working on EVM/Non-EVM blockchains, DeFi, Oracles, bridges, zkp.
+🔭 I’m currently working on EVM/Non-EVM blockchains, DeFi, Oracles, bridges, zkp. 
 
 🌱 I’m currently learning zkRollups, stealth address.
 
