@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on EVM/Non-EVM blockchains, DeFi, Oracles, bridges, zkp. 
 
-🌱 I’m currently learning zkRollups, stealth address.
+🌱 I’m currently learning zkRollups, stealth address. 
 
 👯 I’m looking to collaborate on Blockchain. 
 
