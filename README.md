@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning zkRollups, stealth address. 
 
-👯 I’m looking to collaborate on Blockchain. 
+👯 I’m looking to collaborate on Blockchain.
 
 💬 Ask me about Blockchain and Zero Knowledge.
 
