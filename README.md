@@ -23,8 +23,8 @@ I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at Cu
 - Exploring Rollups and enhancing skills in Rust
 
 ## 📫 How to Reach Me
-Work Email: [Kushagra@integraate.com](mailto:Kushagra@integraate.com)
-Personal Email: [Kushagra2jindal@gmail.com](mailto:Kushagra2jindal@gmail.com)
+- Work Email: [Kushagra@integraate.com](mailto:Kushagra@integraate.com)
+- Personal Email: [Kushagra2jindal@gmail.com](mailto:Kushagra2jindal@gmail.com)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kushagra-jindal-939a01148/)
