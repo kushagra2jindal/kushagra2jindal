@@ -1,24 +1,37 @@
-### Hi there 👋  
+# 👋 Hi, I'm Kushagra Jindal
 
-🔭 I’m currently working on EVM/Non-EVM blockchains, DeFi, Oracles, bridges, zkp. 
+## 🚀 About Me
+I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at CumberlandLabs. My expertise spans across EVM and Non-EVM blockchains, with a focus on Ethereum, Polygon, Base and TON. I have a deep passion for Zero-Knowledge Proofs (ZKP) and Layer 2 solutions like Rollups.
 
-🌱 I’m currently learning zkRollups, stealth address. 
+## 💼 Professional Skills & Focus
+- Blockchain Development
+  - DEX, Lend Borrow, LST, LRT, Oracles, Cross-chain Bridges
+  - Smart Contracts with Solidity and FunC
+  - MEV and private transactions
 
-👯 I’m looking to collaborate on Blockchain.
+- Backend Engineering
+  - Python, Node.js, TypeScript, Rust (learner)
+  - Microservices with REST APIs, gRPCs, GraphQL
+  - LevelDB, MongoDB, PostgreSQL, and DynamoDB
 
-💬 Ask me about Blockchain and Zero Knowledge.
+- DevOps
+  - AWS and Digital Ocean
+  - API Gateway, Lambda Functions, Kubernetes, Docker
 
-📫 How to reach me: email - Kushagra@integraate.com
+## 🌱 Always Learning
+- Diving deeper into Zero-Knowledge Proofs (ZKP)
+- Exploring Rollups and enhancing skills in Rust
 
-<!--
-**kushagra2jindal/kushagra2jindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to Reach Me
+Work Email: [Kushagra@integraate.com](mailto:Kushagra@integraate.com)
+Personal Email: [Kushagra2jindal@gmail.com](mailto:Kushagra2jindal@gmail.com)
 
-
-
-<p align="center"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra2jindal&layout=compact&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"></p>
-
--->
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kushagra-jindal-939a01148/)
+- [Twitter](https://x.com/kushagra_jindal)
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra2jindal&theme=highcontrast")></p>
 
-Thank You!!!
+<!--
+<p align="center"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra2jindal&layout=compact&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"></p>
+-->
