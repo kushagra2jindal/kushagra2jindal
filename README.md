@@ -18,6 +18,10 @@ I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at Cu
   - AWS and Digital Ocean
   - API Gateway, Lambda Functions, Kubernetes, Docker
 
+## 🚀 Currently working on
+- [Hubz](https://hubz.io/): A New Standard for Telegram Chats that elevates on-chain connectivity using the TON blockchain
+- Private blockchain [Canton](https://canton.network/) with DAML as smart contract language
+
 ## 🌱 Always Learning
 - Diving deeper into Zero-Knowledge Proofs (ZKP)
 - Exploring Rollups and enhancing skills in Rust
