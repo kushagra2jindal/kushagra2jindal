@@ -1,22 +1,19 @@
 # 👋 Hi, I'm Kushagra Jindal
 
 ## 🚀 About Me
-I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at CumberlandLabs. My expertise spans across EVM and Non-EVM blockchains, with a focus on Ethereum, Polygon, Base and TON. I have a deep passion for Zero-Knowledge Proofs (ZKP) and Layer 2 solutions like Rollups.
+I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at CumberlandLabs. My expertise spans EVM and non-EVM blockchains, with a focus on Ethereum, Polygon, Base and TON. I have a deep passion for Zero-Knowledge Proofs(ZKP) and Layer 2 solutions like Rollups.
 
 ## 💼 Professional Skills & Focus
+
 - Blockchain Development
   - DEX, Lend Borrow, LST, LRT, Oracles, Cross-chain Bridges
   - Smart Contracts with Solidity and FunC
   - MEV and private transactions
 
 - Backend Engineering
-  - Python, Node.js, TypeScript, Rust (learner)
+  - Python, Node.js, and TypeScript
   - Microservices with REST APIs, gRPCs, GraphQL
   - LevelDB, MongoDB, PostgreSQL, and DynamoDB
-
-- DevOps
-  - AWS and Digital Ocean
-  - API Gateway, Lambda Functions, Kubernetes, Docker
 
 ## 🚀 Currently working on
 - [Hubz](https://hubz.io/): A New Standard for Telegram Chats that elevates on-chain connectivity using the TON blockchain
