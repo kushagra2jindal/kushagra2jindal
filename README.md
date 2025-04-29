@@ -1,19 +1,27 @@
 # 👋 Hi, I'm Kushagra Jindal
 
 ## 🚀 About Me
-I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at CumberlandLabs. My expertise spans EVM and non-EVM blockchains, with a focus on Ethereum, Polygon, Base and TON. I have a deep passion for Zero-Knowledge Proofs(ZKP) and Layer 2 solutions like Rollups.
+I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at CumberlandLabs. My expertise spans EVM and non-EVM blockchains, including Ethereum, Polygon, Base, Solana and TON. I'm passionate about Zero-Knowledge Proofs (ZKPs), Layer 2 scaling solutions, MEV research, and on-chain privacy.
 
-## 💼 Professional Skills & Focus
+Recently, I've expanded into LLM Applications, building AI-driven systems that intersect blockchain, finance, and user engagement.
+
+## 💼 Core Skills & Focus Areas
 
 - Blockchain Development
-  - DEX, Lend Borrow, LST, LRT, Oracles, Cross-chain Bridges
-  - Smart Contracts with Solidity and FunC
-  - MEV and private transactions
+  - DeFi: DEXs, Lending/Borrowing Protocols, Liquid Staking Tokens (LST), Restaking (LRT), Oracles, Cross-chain Bridges
+  - Smart Contracts: Solidity (EVM), FunC (TON)
+  - MEV protection, Private Transactions, Gas optimization
+  - Canton Network (Private Blockchain) with DAML Smart Contracts
+
+- LLM Engineering
+  - LLM-driven systems using OpenAI, Llama 3, Phi-3, Mistral
+  - Semantic search over PDFS and Financial Document Q&A
 
 - Backend Engineering
   - Python, Node.js, and TypeScript
-  - Microservices with REST APIs, gRPCs, GraphQL
-  - LevelDB, MongoDB, PostgreSQL, and DynamoDB
+  - Microservices with REST APIS, gRPCs, Graphql
+  - Database: LevelDB, MongoDB, PostgreSQL, and DynamoDB
+  - Event-driven Systems: Kafka, RabbitMQ
 
 ## 🚀 Currently working on
 - [Hubz](https://hubz.io/): A New Standard for Telegram Chats that elevates on-chain connectivity using the TON blockchain
