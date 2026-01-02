@@ -1,35 +1,39 @@
 # 👋 Hi, I'm Kushagra Jindal
 
 ## 🚀 About Me
-I'm the CTO at Integraate Innovations and a Blockchain Technical Architect at CumberlandLabs. My expertise spans EVM and non-EVM blockchains, including Ethereum, Polygon, Base, Solana and TON. I'm passionate about Zero-Knowledge Proofs (ZKPs), Layer 2 scaling solutions, MEV research, and on-chain privacy.
+I'm the CTO at Integraate Innovations, building **blockchain infrastructure** and **AI-powered automation** for multiple use-cases. 
 
-Recently, I've expanded into LLM Applications, building AI-driven systems that intersect blockchain, finance, and user engagement.
+My blockchain expertise spans EVM and non-EVM ecosystems—Ethereum, Polygon, Base, Solana, and TON—with deep focus on Zero-Knowledge Proofs, Layer 2 scaling, MEV research, and on-chain privacy.
+
+More recently, I've been pioneering **Gen AI agent systems** that solve real enterprise problems: automating financial workflows, tackling month-end closing processes, and building intelligent pipelines that transform how businesses handle complex data operations.
 
 ## 💼 Core Skills & Focus Areas
 
-- Blockchain Development
-  - DeFi: DEXs, Lending/Borrowing Protocols, Liquid Staking Tokens (LST), Restaking (LRT), Oracles, Cross-chain Bridges
-  - Smart Contracts: Solidity (EVM), FunC (TON)
-  - MEV protection, Private Transactions, Gas optimization
-  - Canton Network (Private Blockchain) with DAML Smart Contracts
+### Blockchain Development
+- **DeFi Protocols**: DEXs, Lending/Borrowing, Liquid Staking (LST), Restaking (LRT), Oracles, Cross-chain Bridges
+- **Smart Contracts**: Solidity (EVM), FunC (TON), DAML (Canton Network)
+- **Infrastructure**: MEV protection, Private Transactions, Gas optimization
+- **Enterprise Blockchain**: Canton Network for privacy-preserving financial applications
 
-- LLM Engineering
-  - LLM-driven systems using OpenAI, Llama 3, Phi-3, Mistral
-  - Semantic search over PDFS and Financial Document Q&A
+### Gen AI & Agentic Systems
+- **AI Agents**: Building autonomous systems using Claude, OpenAI, Llama 3, Mistral
+- **Financial Automation**: Month-end closing workflows, reconciliation agents, reporting automation
+- **Intelligent Data Pipelines**: AI-enhanced ETL, anomaly detection, data quality automation
+- **Document Intelligence**: Semantic search over financial documents, PDF Q&A systems, contract analysis, chat bots
 
-- Backend Engineering
-  - Python, Node.js, and TypeScript
-  - Microservices with REST APIS, gRPCs, Graphql
-  - Database: LevelDB, MongoDB, PostgreSQL, and DynamoDB
-  - Event-driven Systems: Kafka, RabbitMQ
+### Backend Engineering
+- **Languages**: Python, Node.js, and TypeScript
+- **Architecture**: Microservices, REST APIs, gRPC, GraphQL
+- **Databases**: PostgreSQL, MongoDB, DynamoDB, LevelDB, Vector DBs (Pinecone, Chroma)
+- **Event Systems**: Kafka, RabbitMQ
 
 ## 🚀 Currently working on
-- [Hubz](https://hubz.io/): A New Standard for Telegram Chats that elevates on-chain connectivity using the TON blockchain
 - Private blockchain [Canton](https://canton.network/) with DAML as smart contract language
+- Financial Automation Suite for entities from 10+ countries [Plainflow](https://www.plainflow.ai/)
 
 ## 🌱 Always Learning
-- Diving deeper into Zero-Knowledge Proofs (ZKP)
-- Exploring Rollups and enhancing skills in Rust
+- Advancing **agentic AI architectures** and multi-agent coordination patterns
+- Diving deeper into **Zero-Knowledge Proofs** and privacy-preserving computation
 
 ## 📫 How to Reach Me
 - Work Email: [Kushagra@integraate.com](mailto:Kushagra@integraate.com)
@@ -39,8 +43,6 @@ Recently, I've expanded into LLM Applications, building AI-driven systems that i
 - [LinkedIn](https://www.linkedin.com/in/kushagra-jindal-939a01148/)
 - [Twitter](https://x.com/kushagra_jindal)
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra2jindal&theme=highcontrast")></p>
-
-<!--
-<p align="center"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra2jindal&layout=compact&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"></p>
--->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagra2jindal&theme=github_dark" alt="GitHub Profile Summary"/>
+</p> 
